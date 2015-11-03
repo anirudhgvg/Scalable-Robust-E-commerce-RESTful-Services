@@ -1,0 +1,20 @@
+{
+  "name": "ExpressApp5",
+  "version": "0.0.0",
+  "description": "ExpressApp5",
+  "main": "app.js",
+  "author": {
+    "name": "Anirudh",
+    "email": ""
+  },
+  "dependencies": {
+    "connect-mongo": "^0.8.2",
+    "express": "3.4.4",
+    "express-session": "^1.11.3",
+    "jade": "*",
+    "mongodb": "^2.0.47",
+    "mongojs": "^1.4.1",
+    "mongoose": "^4.2.4",
+    "stylus": "*"
+  }
+}
